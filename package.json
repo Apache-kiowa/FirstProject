@@ -1,0 +1,19 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apache-kiowa/FirstProject.git"
+  },
+  "author": "Apache-kiowa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apache-kiowa/FirstProject/issues"
+  },
+  "homepage": "https://github.com/Apache-kiowa/FirstProject#readme"
+}
